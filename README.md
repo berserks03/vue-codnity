@@ -1,4 +1,5 @@
 # vue-codnity
+[Deployed In Netlify](https://vue-codnity.netlify.app/)
 
 ## Project Setup
 
